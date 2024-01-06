@@ -1,3 +1,12 @@
+Hello World for Global Hack Week!!!
+
+having so much fun and learning a ton!
+
+chek them out!
+https://ghw.mlh.io/events/beginners-week2
+
+
+
 Copilot for windows made this with the prompt....
 
 "A cartoonish and silly image that represents printing 'Hello World' in python."
